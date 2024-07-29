@@ -9,8 +9,7 @@
 <div align="center">
     You have finally discovered my GitHub profile. <br><br>
     Hi, I am Ishani Tambat, a passionate frontend developer and IT graduate from Vishwakarma Institute of Information Technology, Pune. My projects range from dynamic web applications using modern frameworks like <strong>React</strong> and <strong>Vue.js</strong> to educational tools and user-friendly interfaces.
-
-    <br><br>I work with modern frameworks like Vue.js and React to build dynamic web applications. Checkout my repositories to get to know more about my projects.<br><br>
+<br><br>I work with modern frameworks like Vue.js and React to build dynamic web applications. Checkout my repositories to get to know more about my projects.<br><br>
     Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better. <br>
     Please feel free to visit my <a href="https://github.com/prataprajput27">Portfolio page</a> to know more about me.<br><br>
     <i>Happy Coding!</i> 😊
