@@ -1,34 +1,40 @@
 <h1 align="center">Hi 👋, I'm Ishani Tambat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ishanitambat23&label=Profile%20views&color=0e75b6&style=flat" alt="ishanitambat23" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishanitambat23&label=Profile%20views&color=0e75b6&style=flat" alt="ishanitambat23" />
+  <img src="https://img.shields.io/badge/Age-22-blue" alt="Age" />
+  <img src="https://img.shields.io/badge/Lives%20in-India-blue" alt="Lives in" />
 </p>
 
-<p align="center"> 
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ishanitambat23&row=1&column=6&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="ishanitambat23" />
-  </a> 
+    <img src="https://github-profile-trophy.vercel.app/?username=ishanitambat23&row=1&column=7&theme=dracula&margin-w=15&margin-h=15" alt="ishanitambat23" />
+  </a>
 </p>
+
+---
 
 - 🔭 I’m currently interning at [Krios Info Solutions Pvt. Ltd](https://kriosispl.com/index.html)
 - 🌱 I’m currently learning **Data Structures and Algorithms, Full Stack Development, and JavaScript Frameworks**
 - 💬 Ask me about **React, Vue.js, JavaScript, C++**
 - 📫 How to reach me **ishanitambat2002@gmail.com**
-- ⚡ Fun fact: **I enjoy coding, experimenting with fresh ideas, exploring the newest technologies, and occasionally embarking on adventures.**
+- ⚡ Fun fact: **I love coding, exploring new technologies, and embarking on adventures.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/ishanitambat23" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishanitambat23" height="30" width="40" />
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://www.leetcode.com/ishanitambat23" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishanitambat23" height="30" width="40" />
+    <img src="https://img.icons8.com/fluency/48/000000/leetcode.png" alt="LeetCode" width="40" height="40"/>
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a> 
@@ -85,14 +91,15 @@
   </a> 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanitambat23&show_icons=true&theme=dark&locale=en&layout=compact" alt="ishanitambat23" />
-</p>
+---
 
+<h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishanitambat23&show_icons=true&theme=dark&locale=en" alt="ishanitambat23" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanitambat23&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ishanitambat23" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanitambat23&theme=dark" alt="ishanitambat23" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishanitambat23&show_icons=true&theme=dracula&locale=en" alt="ishanitambat23" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanitambat23&theme=dracula" alt="ishanitambat23" />
 </p>
