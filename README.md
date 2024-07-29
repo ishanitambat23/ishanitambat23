@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Full Stack Development, and JavaScript Frameworks**
 
-- 💬 Ask me about **React, Vue.js, Node.js, Express.js, MongoDB, JavaScript, C++**
+- 💬 Ask me about **React, Vue.js, JavaScript, C++**
 
 - 📫 How to reach me **ishanitambat2002@gmail.com**
 
