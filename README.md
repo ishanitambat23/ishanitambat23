@@ -1,6 +1,4 @@
-Sure, I can help make your GitHub profile readme more aesthetic. Here's a refined version:
 
-```markdown
 <h1 align="center">Hi 👋, I'm Ishani Tambat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
