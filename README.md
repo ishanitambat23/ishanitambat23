@@ -1,5 +1,5 @@
 <div align="center">
-    <h2> 𝐇𝐞𝐥𝐥𝐨!<img src="https://tenor.com/blOVi.gif" width="30"></h2>
+    <h2> 𝐇𝐞𝐥𝐥𝐨 and welcome!<img src="https://tenor.com/blOVi.gif" width="30"></h2>
 </div>
 
 <div align="center" width="50">
@@ -18,6 +18,7 @@
 <br><br>
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanitambat23&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ishani's GitHub Stats">
+    <br/>
     <br/>
     <h4 align="center"><strong>Tools, Technologies, and Languages I Use</strong></h4>
     <div align="center">
