@@ -22,7 +22,7 @@
     <h4 align="center">Tools, Technologies, and Languages I Use</h4>
     <br/>
     <div align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,react,redux,nodejs,express,vuejs,mongodb,mysql,c,cpp,java,javascript,typescript,firebase,git,postman,aws,bootstrap,tailwind,nextjs&perline=7">
+        <img src="https://skillicons.dev/icons?i=html,css,react,vuejs,mysql,c,cpp,javascript,firebase,git,aws,bootstrap&perline=7">
         <br/><br/>
         <h5><i>Follow me around the web ;)</i></h5>
         <a href="https://www.linkedin.com/in/ishanitambat23/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=black" alt="LinkedIn"></a>
