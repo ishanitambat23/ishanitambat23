@@ -1,29 +1,9 @@
-<style>
-  .center-crop {
-    display: inline-block;
-    width: 300px; /* Set to desired width */
-    height: 300px; /* Set to desired height */
-    overflow: hidden;
-    position: relative;
-    text-align: center;
-  }
-
-  .center-crop img {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    min-width: 100%;
-    min-height: 100%;
-  }
-</style>
-
 <div align="center">
     <h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚥𝚎𝚝𝚎𝚛𝚜/>! <img src="https://tenor.com/blOVi.gif" width="30"></h2>
 </div>
 
-<div class="center-crop">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdqYXF0dWs2ejB5cmF4YnUyZTZrM2lnZzBrMHp4d2IycHZ3YzgxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jkeA9bCKilZk9S1O9K/giphy.gif" alt="Welcome!"/>
+<div align="center" width="50">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdqYXF0dWs2ejB5cmF4YnUyZTZrM2lnZzBrMHp4d2IycHZ3YzgxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jkeA9bCKilZk9S1O9K/giphy.gif" alt="Welcome!" width="300"/>
 </div>
 
 <div align="center">
