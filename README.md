@@ -13,13 +13,13 @@
     I work with modern frameworks like Vue.js and React to build dynamic web applications and also specialize in designing visually appealing websites. Checkout my repositories to get to know more about my projects.
     <br><br>
     Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better.
-    <br><br><i>Happy Coding!</i>🚀
+    <br><br><i>Happy Coding!</i> 🚀
 </div>
 <br><br>
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanitambat23&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ishani's GitHub Stats">
     <br/>
-    <h4 align="center"><strong>Tools, Technologies, and Languages I Use </strong>strong></h4>
+    <h4 align="center"><strong>Tools, Technologies, and Languages I Use</strong></h4>
     <div align="center">
         <img src="https://skillicons.dev/icons?i=html,css,react,vuejs,mysql,c,cpp,javascript,firebase,git,aws,bootstrap&perline=7">
         <br/><br/>
