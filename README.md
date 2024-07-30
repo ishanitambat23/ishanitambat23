@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>𝐇𝐞𝐥𝐥𝐨!<img src="https://tenor.com/blOVi.gif" width="30"></h2>
+    <h2>𝐇𝐞𝐥𝐥𝐨!</h2>
 </div>
 
 <div align="center" width="50">
