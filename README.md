@@ -9,10 +9,10 @@
 <div align="center">
     You have finally discovered my GitHub profile. <br><br>
     Hi, I am Ishani Tambat, a passionate frontend developer and IT graduate from Vishwakarma Institute of Information Technology, Pune. My projects range from games like <strong>Strike.js</strong> — which involves implementing complex physics elements like friction, gravity, sine, recoil, and collision physics within a canvas — to educational tools like <strong>Tree Traversal Algorithms</strong> for teaching data structures and algorithms.
-<br><br>I specialize in building scalable and high-performing applications and can also design user-friendly and visually appealing websites. Feel free to explore my repositories to know more about my projects. You are welcome to clone/fork my projects, raise issues, and submit PRs if you think something could be improved. Additionally, feel free to visit my <a href="https://www.linkedin.com/in/ishanitambat23/">LinkedIn profile</a> to connect with me.
-You are welcome to clone/fork my projects, raise issues, and submit PRs if you think something could be improved. Additionally, feel free to visit my <a href="https://www.linkedin.com/in/ishanitambat23/">LinkedIn profile</a> to connect with me.
+<br><br>I specialize in building scalable and high-performing applications and can also design user-friendly and visually appealing websites. Feel free to explore my repositories to know more about my projects. You are welcome to clone/fork my projects, raise issues, and submit PRs if you think something could be improved. Additionally, feel free to visit my <a href="https://www.linkedin.com/in/ishanitambat23/">LinkedIn profile</a> to connect with me. You are welcome to clone/fork my projects, raise issues, and submit PRs if you think something could be improved. Additionally, feel free to visit my <a href="https://www.linkedin.com/in/ishanitambat23/">LinkedIn profile</a> to connect with me.
 <br><br><i>Happy Coding!</i> 😊
-    <br><br>
+<br><be>
+
 </div>
 
 <div align="center">
