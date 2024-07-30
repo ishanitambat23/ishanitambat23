@@ -13,7 +13,7 @@
     I work with modern frameworks like Vue.js and React to build dynamic web applications and also specialize in designing visually appealing websites. Checkout my repositories to get to know more about my projects.
     <br><br>
     Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better.
-    <br><br><i>Happy Coding!</i> 😊
+    <br><br><i>Happy Coding!</i> 🚀
 </div>
 
 <div align="center">
